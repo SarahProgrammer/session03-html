@@ -1,0 +1,17 @@
+{
+  "name": "session03-html",
+  "version": "1.0.0",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahProgrammer/session03-html.git"
+  },
+  "author": "SarahProgrammer",
+  "bugs": {
+    "url": "https://github.com/SarahProgrammer/session03-html/issues"
+  },
+  "homepage": "https://github.com/SarahProgrammer/session03-html#readme",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
